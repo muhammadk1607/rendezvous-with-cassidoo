@@ -101,6 +101,7 @@ I started this in the [issue #258](https://buttondown.email/cassidoo/archive/dis
 - [384 - count-perfectly-round-cookies](src/384-count-perfectly-round-cookies/README.md)
 - [385 - new-years-day](src/385-new-years-day/README.md)
 - [386 - permute](src/386-permute/README.md)
+- [387 - natoify](src/387-natoify/README.md)
 
 </details>
 
