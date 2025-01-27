@@ -103,6 +103,7 @@ I started this in the [issue #258](https://buttondown.email/cassidoo/archive/dis
 - [386 - permute](src/386-permute/README.md)
 - [387 - natoify](src/387-natoify/README.md)
 - [388 - longest-subsequence](src/388-longest-subsequence/README.md)
+- [389 - find-anagrams](src/389-find-anagrams/README.md)
 
 </details>
 
