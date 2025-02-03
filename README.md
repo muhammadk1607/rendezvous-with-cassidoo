@@ -104,6 +104,7 @@ I started this in the [issue #258](https://buttondown.email/cassidoo/archive/dis
 - [387 - natoify](src/387-natoify/README.md)
 - [388 - longest-subsequence](src/388-longest-subsequence/README.md)
 - [389 - find-anagrams](src/389-find-anagrams/README.md)
+- [390 - evaluate-postfix](src/390-evaluate-postfix/README.md)
 
 </details>
 
