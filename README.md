@@ -106,6 +106,7 @@ I started this in the [issue #258](https://buttondown.email/cassidoo/archive/dis
 - [389 - find-anagrams](src/389-find-anagrams/README.md)
 - [390 - evaluate-postfix](src/390-evaluate-postfix/README.md)
 - [391 - available-numbers](src/391-available-numbers/README.md)
+- [392 - find-shield-break](src/392-find-shield-break/README.md)
 
 </details>
 
