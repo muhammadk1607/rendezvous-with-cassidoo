@@ -108,6 +108,7 @@ I started this in the [issue #258](https://buttondown.email/cassidoo/archive/dis
 - [391 - available-numbers](src/391-available-numbers/README.md)
 - [392 - find-shield-break](src/392-find-shield-break/README.md)
 - [393 - get-note-names](src/393-get-note-names/README.md)
+- [394 - calculate-price](src/394-calculate-price/README.md)
 
 </details>
 
