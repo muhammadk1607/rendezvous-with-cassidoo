@@ -110,7 +110,8 @@ I started this in the [issue #258](https://buttondown.email/cassidoo/archive/dis
 - [393 - get-note-names](src/393-get-note-names/README.md)
 - [394 - calculate-price](src/394-calculate-price/README.md)
 - [395 - find-largest-interval](src/395-find-largest-interval/README.md)
-- [395 - find-longest-streak](src/397-find-longest-streak/README.md)
+- [397 - find-longest-streak](src/397-find-longest-streak/README.md)
+- [398 - find-longest-time-gap](src/398-find-longest-time-gap/README.md)
 
 </details>
 
