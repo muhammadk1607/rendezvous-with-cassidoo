@@ -114,6 +114,7 @@ I started this in the [issue #258](https://buttondown.email/cassidoo/archive/dis
 - [398 - find-longest-time-gap](src/398-find-longest-time-gap/README.md)
 - [399 - get-leyland-numbers](src/399-get-leyland-numbers/README.md)
 - [400 - largest-path-sum](src/400-largest-path-sum/)
+- [401 - calculate-ingredients](src/401-calculate-ingredients/README.md)
 
 </details>
 
