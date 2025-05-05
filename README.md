@@ -116,6 +116,7 @@ I started this in the [issue #258](https://buttondown.email/cassidoo/archive/dis
 - [400 - largest-path-sum](src/400-largest-path-sum/)
 - [401 - calculate-ingredients](src/401-calculate-ingredients/README.md)
 - [402 - compress](src/402-compress/README.md)
+- [403 - longest-common-prefix](src/403-longest-common-prefix/README.md)
 
 </details>
 
