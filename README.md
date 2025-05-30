@@ -119,6 +119,7 @@ I started this in the [issue #258](https://buttondown.email/cassidoo/archive/dis
 - [403 - longest-common-prefix](src/403-longest-common-prefix/README.md)
 - [404 - add-operators](src/404-add-operators/README.md)
 - [405 - draw-cube](src/405-draw-cube/README.md)
+- [406 - odd-sum](src/406-odd-sum/README.md)
 
 </details>
 
