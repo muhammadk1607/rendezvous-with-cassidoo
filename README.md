@@ -120,6 +120,7 @@ I started this in the [issue #258](https://buttondown.email/cassidoo/archive/dis
 - [404 - add-operators](src/404-add-operators/README.md)
 - [405 - draw-cube](src/405-draw-cube/README.md)
 - [406 - odd-sum](src/406-odd-sum/README.md)
+- [407 - nest-array](src/407-nest-array/README.md)
 
 </details>
 
