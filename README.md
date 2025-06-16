@@ -122,6 +122,7 @@ I started this in the [issue #258](https://buttondown.email/cassidoo/archive/dis
 - [406 - odd-sum](src/406-odd-sum/README.md)
 - [407 - nest-array](src/407-nest-array/README.md)
 - [408 - is-valid-traffic-sequence](src/408-is-valid-traffic-sequence/README.md)
+- [409 - sort-monarchs](src/409-sort-monarchs/README.md)
 
 </details>
 
