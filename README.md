@@ -124,6 +124,7 @@ I started this in the [issue #258](https://buttondown.email/cassidoo/archive/dis
 - [408 - is-valid-traffic-sequence](src/408-is-valid-traffic-sequence/README.md)
 - [409 - sort-monarchs](src/409-sort-monarchs/README.md)
 - [411 - non-repeat](src/411-non-repeat/README.md)
+- [415 - can-form-hexagon](src/415-can-form-hexagon/README.md)
 
 </details>
 
