@@ -126,6 +126,7 @@ I started this in the [issue #258](https://buttondown.email/cassidoo/archive/dis
 - [411 - non-repeat](src/411-non-repeat/README.md)
 - [415 - can-form-hexagon](src/415-can-form-hexagon/README.md)
 - [421 - sum-of-neighbors](src/421-sum-of-neighbors/README.md)
+- [439 - hungry-bears](src/439-hungry-bears/README.md)
 
 </details>
 
