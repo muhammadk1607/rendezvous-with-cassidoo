@@ -1,6 +1,6 @@
 # 🐻 Hungry Bears
 
-Interview question of the [issue #430 of rendezvous with cassidoo](https://buttondown.com/cassidoo/archive/the-future-is-sending-back-good-wishes-and/).
+Interview question of the [issue #439 of rendezvous with cassidoo](https://buttondown.com/cassidoo/archive/the-future-is-sending-back-good-wishes-and/).
 
 ## The Question
 
