@@ -128,6 +128,7 @@ I started this in the [issue #258](https://buttondown.email/cassidoo/archive/dis
 - [421 - sum-of-neighbors](src/421-sum-of-neighbors/README.md)
 - [439 - hungry-bears](src/439-hungry-bears/README.md)
 - [441 - flippedy](src/441-flippedy/README.md)
+- [442 - nearest-perfect-month](src/442-nearest-perfect-month/README.md)
 
 </details>
 
